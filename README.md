@@ -1,2 +1,3 @@
 # guesTheNumber
- a smal and fun game,
+====
+guesTheNumber is a small fun game where you try to gues the correct number.
